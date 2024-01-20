@@ -1,13 +1,21 @@
+<div align="center">
 
-# Olá, eu sou a Rafaela! 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#6959CD&height=120&section=header"/>
 
-Iniciante na programação, cursando Análise e Desenvolvimento de Sistemas. 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Rafaela!;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-Já tive contato com as seguintes linguagens:
+**Iniciante na programação, cursando Análise e Desenvolvimento de Sistemas**. 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+**Já tive contato com as seguintes linguagens:**
 
+[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">](https://www.java.com/)
+[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">](https://www.python.org/)
+[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">](https://isocpp.org/)
+[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">](https://www.php.net/)
+[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">](https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 ## Contato
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-souzati/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23rafaela.souz@gmail.com) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-souzati/)
+
+</div>
