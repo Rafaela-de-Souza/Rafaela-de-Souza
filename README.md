@@ -10,9 +10,10 @@
 
 [<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">](https://www.java.com/)
 [<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">](https://www.python.org/)
-[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">](https://isocpp.org/)
 [<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">](https://www.php.net/)
+[<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">](https://isocpp.org/)
 [<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">](https://docs.microsoft.com/en-us/dotnet/csharp/)
+
 
 ## Contato
 
