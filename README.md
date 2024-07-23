@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Rafaela!;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-**Iniciante na programação, cursando Sistemas da Informação**. 
-
 **Já tive contato com as seguintes linguagens:**
 
 [<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">](https://www.java.com/)
