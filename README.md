@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6959CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Rafaela!;Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
-**Iniciante na programação, cursando Análise e Desenvolvimento de Sistemas**. 
+**Iniciante na programação, cursando Sistemas da Informação**. 
 
 **Já tive contato com as seguintes linguagens:**
 
